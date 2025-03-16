@@ -1,0 +1,7 @@
+frontend/node_modules
+chat_backend/.env
+backend/.env
+backend/data
+hcl_embeddings/.env
+hcl_embeddings/data
+hcl_embeddings/*.npy
